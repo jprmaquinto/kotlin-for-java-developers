@@ -1,4 +1,4 @@
-package academy.learnprogramming.challenges;
+package academy.learnprogramming.challenges.section2.javacode;
 
 import java.util.Arrays;
 

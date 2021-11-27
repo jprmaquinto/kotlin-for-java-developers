@@ -1,5 +1,6 @@
 package academy.learnprogramming.challenges
 
+import academy.learnprogramming.challenges.section2.javacode.Challenge2Num5
 
 
 fun main(args: Array<String>) {
